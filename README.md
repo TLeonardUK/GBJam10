@@ -5,3 +5,6 @@ Binaries are available on itch.io here: https://tleonarduk.itch.io/house-of-thym
 
 # Caution
 This was made in about 5 days. It's not representative of good practices, and shouldn't be used to learn anything. It's posted here just for curiosities sake.
+
+
+![Screenshot 1](./Site/ezgif-2-c2b978dedd.gif?raw=true)
