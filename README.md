@@ -3,6 +3,8 @@ This is a project I submitted for the 10th GameBoy Jam (https://itch.io/jam/gbja
 
 Binaries are available on itch.io here: https://tleonarduk.itch.io/house-of-thyme-3d
 
+This project is built for UE5 5.0.3
+
 # Restrictions
 The restriction of this jam were 4 colors, 160 x 144 resolution and the same number of inputs as the original gameboy.
 
