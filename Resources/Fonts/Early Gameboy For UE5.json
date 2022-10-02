@@ -1,0 +1,45 @@
+{
+	"$baseURI": "https://yal.cc/r/20/pixelfont/",
+	"$version": "1.0",
+	"in-glyphs": [
+		" !\"#$%&'()*+,-./",
+		"0123456789:;<=>?",
+		"@ABCDEFGHIJKLMNO",
+		"PQRSTUVWXYZ[\\]^_",
+		"`abcdefghijklmno",
+		"pqrstuvwxyz{|}~∎",
+		"£€¬"
+	],
+	"glyph-color": "black",
+	"in-kerning": [
+		""
+	],
+	"glyph-width": 11,
+	"glyph-height": 12,
+	"glyph-ofs-x": 1,
+	"glyph-ofs-y": 1,
+	"glyph-sep-x": 1,
+	"glyph-sep-y": 1,
+	"glyph-base-x": 1,
+	"glyph-baseline": 9,
+	"glyph-spacing": -4,
+	"font-is-mono": true,
+	"font-em-square": 1536,
+	"font-line-gap": 0,
+	"font-ascend": 1132,
+	"font-descend": -404,
+	"font-px-size": 128,
+	"font-name": "Early Gameboy For UE5",
+	"font-author": "Tim Leonard (Original by Jimmy Campbell)",
+	"font-copy": "(c) 2022",
+	"font-version": "Version 1.0",
+	"font-desc": "",
+	"font-license": "",
+	"font-license-url": "",
+	"font-sample-text": "",
+	"font-preview-text": [
+		"THE QUICK BROWN FOX JUMPS OVER A LAZY DOG.",
+		"the quick brown fox jumps over a lazy dog.",
+		"0123456789"
+	]
+}
